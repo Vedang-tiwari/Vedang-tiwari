@@ -5,7 +5,25 @@
 
 <h3><code>vedang@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Vedang's GitHub contribution graph — auto-refreshed daily" />
+
+<!-- Animated GitHub Contribution Heatmap + Snake -->
+
+<div align="center">
+  <img
+    src="./contrib-heatmap.svg"
+    width="860"
+    alt="GitHub contribution heatmap animation"
+  />
+
+  <br />
+
+  <img
+    src="https://profile-readme-generator.com/assets/snake.svg"
+    width="860"
+    alt="Snake animation"
+  />
+</div>
+
 
 <br>
 <br>
