@@ -33,9 +33,10 @@
 
 <p><b>Fullstack Developer · AI Builder · Problem Solver</b></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vedang--tiwari-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vedang-tiwari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedang_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedang-tiwari)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedang@example.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-vedangtiwari.runs--on.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vedangtiwari.runs-on.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedang_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedang-tiwari-39b035296)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](vedangt027@gmail.com)
 
 <br>
 
